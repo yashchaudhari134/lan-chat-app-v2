@@ -1,3 +1,5 @@
+> 📝 This project is adapted from [PushpinderSinghGrewal/lan-chat-app](https://github.com/PushpinderSinghGrewal/lan-chat-app)  
+> Modified and extended by Yash Chaudhari for educational and learning purposes.
 # LanChatApp
 A Lan chat app built in Java by the use of network programming. Uses UDP (User Datagram Protocol) to send a message to all the clients through multicasting. The desktop application can be used  in a Local area network  to 
 connect and text other users. Multiple users can text at the same time.
